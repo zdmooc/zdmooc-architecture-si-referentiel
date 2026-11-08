@@ -25,7 +25,7 @@
 2. [DDD stratégique : langage, sous-domaines et contextes](tome-02/chapitre-02.md)
 3. [DDD tactique : entités, objets-valeur et agrégats](tome-02/chapitre-03.md)
 4. [Concevoir un monolithe modulaire](tome-02/chapitre-04.md)
-5. Les architectures en couches et N-tier
+5. [Les architectures en couches et N-tier](tome-02/chapitre-05.md)
 6. Architecture hexagonale, Clean Architecture et Onion Architecture
 7. SOA et microservices : choisir les frontières utiles
 8. Concevoir les API et les contrats
