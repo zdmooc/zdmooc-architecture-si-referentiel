@@ -37,19 +37,19 @@
 ## Tome III — Intégration, données et systèmes distribués
 
 1. [Choisir entre échanges synchrones et asynchrones](tome-03/chapitre-01.md)
-2. Distinguer commandes, requêtes, messages et événements
-3. Concevoir une architecture événementielle
-4. Maîtriser transactions, concurrence et cohérence
-5. Construire l’idempotence et traiter les doublons
-6. Fiabiliser la publication : double écriture et Outbox
-7. Fiabiliser la consommation : acquittements, Inbox et reprise
-8. CQRS et les modèles de consultation
-9. Event Sourcing, projections et reconstruction
-10. Saga, orchestration et compensation
-11. Résilience : délais, reprises et isolation
-12. Résultats inconnus et rapprochement
-13. BIAN et les responsabilités bancaires
-14. Qualifier les garanties par les scénarios de panne
+2. [Distinguer commandes, requêtes, messages et événements](tome-03/chapitre-02.md)
+3. [Concevoir une architecture événementielle](tome-03/chapitre-03.md)
+4. [Maîtriser transactions, concurrence et cohérence](tome-03/chapitre-04.md)
+5. [Construire l’idempotence et traiter les doublons](tome-03/chapitre-05.md)
+6. [Fiabiliser la publication : double écriture et Outbox](tome-03/chapitre-06.md)
+7. [Fiabiliser la consommation : acquittements, Inbox et reprise](tome-03/chapitre-07.md)
+8. [CQRS et les modèles de consultation](tome-03/chapitre-08.md)
+9. [Event Sourcing, projections et reconstruction](tome-03/chapitre-09.md)
+10. [Saga, orchestration et compensation](tome-03/chapitre-10.md)
+11. [Résilience : délais, reprises et isolation](tome-03/chapitre-11.md)
+12. [Résultats inconnus et rapprochement](tome-03/chapitre-12.md)
+13. [BIAN et les responsabilités bancaires](tome-03/chapitre-13.md)
+14. [Qualifier les garanties par les scénarios de panne](tome-03/chapitre-14.md)
 
 ## Tome IV — Plateformes, exploitation et modernisation
 

@@ -29,4 +29,17 @@ Un ouvrage pour comprendre les démarches d’architecture, concevoir des soluti
 
 ## Tome III — Intégration, données et systèmes distribués
 
-[Chapitre 1 — Choisir entre échanges synchrones et asynchrones](tome-03/chapitre-01.md)
+1. [Échanges synchrones et asynchrones](tome-03/chapitre-01.md)
+2. [Commandes, requêtes, messages et événements](tome-03/chapitre-02.md)
+3. [Architecture événementielle](tome-03/chapitre-03.md)
+4. [Transactions, concurrence et cohérence](tome-03/chapitre-04.md)
+5. [Idempotence et doublons](tome-03/chapitre-05.md)
+6. [Publication fiable et Outbox](tome-03/chapitre-06.md)
+7. [Consommation fiable, Inbox et reprise](tome-03/chapitre-07.md)
+8. [CQRS et consultation](tome-03/chapitre-08.md)
+9. [Event Sourcing et reconstruction](tome-03/chapitre-09.md)
+10. [Saga, orchestration et compensation](tome-03/chapitre-10.md)
+11. [Résilience](tome-03/chapitre-11.md)
+12. [Résultats inconnus et rapprochement](tome-03/chapitre-12.md)
+13. [BIAN et responsabilités bancaires](tome-03/chapitre-13.md)
+14. [Qualification par les scénarios de panne](tome-03/chapitre-14.md)
