@@ -7,7 +7,7 @@
 ## Tome I — Fondamentaux, démarches et gouvernance
 
 1. [De l’objectif métier à la décision d’architecture](tome-01/chapitre-01.md)
-2. Les niveaux et les vues d’architecture
+2. [Les niveaux et les vues d’architecture](tome-01/chapitre-02.md)
 3. Les acteurs, les responsabilités et la collaboration
 4. Les exigences et les attributs de qualité
 5. L’architecture d’entreprise : capacités, existant et cible
