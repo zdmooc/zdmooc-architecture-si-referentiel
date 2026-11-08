@@ -22,7 +22,7 @@
 ## Tome II — Conception des solutions et architectures logicielles
 
 1. [Délimiter une solution et ses responsabilités](tome-02/chapitre-01.md)
-2. DDD stratégique : langage, sous-domaines et contextes
+2. [DDD stratégique : langage, sous-domaines et contextes](tome-02/chapitre-02.md)
 3. DDD tactique : entités, objets-valeur et agrégats
 4. Concevoir un monolithe modulaire
 5. Les architectures en couches et N-tier
