@@ -53,7 +53,7 @@
 
 ## Tome IV — Plateformes, exploitation et modernisation
 
-1. Concevoir les environnements et les déploiements
+1. [Concevoir les environnements et les déploiements](tome-04/chapitre-01.md)
 2. Comprendre les dépendances Java et middleware
 3. Conteneurs, Kubernetes et OpenShift
 4. Architectures cloud, hybrides et critères de placement

@@ -43,3 +43,7 @@ Un ouvrage pour comprendre les démarches d’architecture, concevoir des soluti
 12. [Résultats inconnus et rapprochement](tome-03/chapitre-12.md)
 13. [BIAN et responsabilités bancaires](tome-03/chapitre-13.md)
 14. [Qualification par les scénarios de panne](tome-03/chapitre-14.md)
+
+## Tome IV — Plateformes, exploitation et modernisation
+
+[Chapitre 1 — Concevoir les environnements et les déploiements](tome-04/chapitre-01.md)
