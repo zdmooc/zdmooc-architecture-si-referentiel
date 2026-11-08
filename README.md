@@ -26,3 +26,7 @@ Un ouvrage pour comprendre les démarches d’architecture, concevoir des soluti
 10. [Sécurité applicative](tome-02/chapitre-10.md)
 11. [Règles, dépendances et vérification](tome-02/chapitre-11.md)
 12. [Solution de paiements de bout en bout](tome-02/chapitre-12.md)
+
+## Tome III — Intégration, données et systèmes distribués
+
+[Chapitre 1 — Choisir entre échanges synchrones et asynchrones](tome-03/chapitre-01.md)

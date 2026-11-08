@@ -36,7 +36,7 @@
 
 ## Tome III — Intégration, données et systèmes distribués
 
-1. Choisir entre échanges synchrones et asynchrones
+1. [Choisir entre échanges synchrones et asynchrones](tome-03/chapitre-01.md)
 2. Distinguer commandes, requêtes, messages et événements
 3. Concevoir une architecture événementielle
 4. Maîtriser transactions, concurrence et cohérence
