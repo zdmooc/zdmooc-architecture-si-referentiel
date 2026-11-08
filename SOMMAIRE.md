@@ -17,7 +17,7 @@
 9. [SABSA et l’architecture de sécurité](tome-01/chapitre-09.md)
 10. [Design Thinking, agilité à l’échelle et place de SAFe](tome-01/chapitre-10.md)
 11. [ArchiMate, UML et BPMN : représenter pour comprendre](tome-01/chapitre-11.md)
-12. Gouverner les décisions, les exceptions et la dette
+12. [Gouverner les décisions, les exceptions et la dette](tome-01/chapitre-12.md)
 
 ## Tome II — Conception des solutions et architectures logicielles
 
