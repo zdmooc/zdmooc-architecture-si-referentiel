@@ -13,7 +13,7 @@
 5. [L’architecture d’entreprise : capacités, existant et cible](tome-01/chapitre-05.md)
 6. [TOGAF et la conduite de la transformation](tome-01/chapitre-06.md)
 7. [Open Agile Architecture, Zachman et IT4IT : des périmètres distincts](tome-01/chapitre-07.md)
-8. DDD : du domaine métier à la conception du logiciel
+8. [DDD : du domaine métier à la conception du logiciel](tome-01/chapitre-08.md)
 9. SABSA et l’architecture de sécurité
 10. Design Thinking, agilité à l’échelle et place de SAFe
 11. ArchiMate, UML et BPMN : représenter pour comprendre
