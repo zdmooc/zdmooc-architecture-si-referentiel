@@ -21,7 +21,7 @@
 
 ## Tome II — Conception des solutions et architectures logicielles
 
-1. Délimiter une solution et ses responsabilités
+1. [Délimiter une solution et ses responsabilités](tome-02/chapitre-01.md)
 2. DDD stratégique : langage, sous-domaines et contextes
 3. DDD tactique : entités, objets-valeur et agrégats
 4. Concevoir un monolithe modulaire
