@@ -26,13 +26,13 @@
 3. [DDD tactique : entités, objets-valeur et agrégats](tome-02/chapitre-03.md)
 4. [Concevoir un monolithe modulaire](tome-02/chapitre-04.md)
 5. [Les architectures en couches et N-tier](tome-02/chapitre-05.md)
-6. Architecture hexagonale, Clean Architecture et Onion Architecture
-7. SOA et microservices : choisir les frontières utiles
-8. Concevoir les API et les contrats
-9. Organiser les données et les transactions
-10. Intégrer la sécurité dans la conception applicative
-11. Vérifier les règles et les dépendances
-12. Concevoir une solution fictive de paiements de bout en bout
+6. [Architecture hexagonale, Clean Architecture et Onion Architecture](tome-02/chapitre-06.md)
+7. [SOA et microservices : choisir les frontières utiles](tome-02/chapitre-07.md)
+8. [Concevoir les API et les contrats](tome-02/chapitre-08.md)
+9. [Organiser les données et les transactions](tome-02/chapitre-09.md)
+10. [Intégrer la sécurité dans la conception applicative](tome-02/chapitre-10.md)
+11. [Vérifier les règles et les dépendances](tome-02/chapitre-11.md)
+12. [Concevoir une solution fictive de paiements de bout en bout](tome-02/chapitre-12.md)
 
 ## Tome III — Intégration, données et systèmes distribués
 
