@@ -11,7 +11,7 @@
 3. [Les acteurs, les responsabilités et la collaboration](tome-01/chapitre-03.md)
 4. [Les exigences et les attributs de qualité](tome-01/chapitre-04.md)
 5. [L’architecture d’entreprise : capacités, existant et cible](tome-01/chapitre-05.md)
-6. TOGAF et la conduite de la transformation
+6. [TOGAF et la conduite de la transformation](tome-01/chapitre-06.md)
 7. Open Agile Architecture, Zachman et IT4IT : des périmètres distincts
 8. DDD : du domaine métier à la conception du logiciel
 9. SABSA et l’architecture de sécurité
